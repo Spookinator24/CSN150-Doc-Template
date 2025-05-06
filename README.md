@@ -19,7 +19,7 @@ To learn what I can do with the ESP32 and how to set it up
 
 
 ## Steps I followed
-
+[ESP32 camera setup](https://lastminuteengineers.com/getting-started-with-esp32-cam/)
 
 ## Problems
   
