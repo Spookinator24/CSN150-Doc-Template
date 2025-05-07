@@ -22,6 +22,6 @@ To learn what I can do with the ESP32 and how to set it up
 [ESP32 camera setup](https://lastminuteengineers.com/getting-started-with-esp32-cam/)
 
 ## Problems
-  No problems at all camera was able to connect to wifi with no problems
+  No problems at all ESP32 was able to connect to wifi with no problems
 
 
