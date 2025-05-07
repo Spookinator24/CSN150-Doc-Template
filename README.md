@@ -22,11 +22,6 @@ To learn what I can do with the ESP32 and how to set it up
 [ESP32 camera setup](https://lastminuteengineers.com/getting-started-with-esp32-cam/)
 
 ## Problems
-  
-
-### Example Problem
-1. Arduino code will not load on ESP32 Cam.
-   Answer: Camera drivers were incorrect I needed to install the driver: [https://www.wch-ic.com/downloads/CH341SER_ZIP.html](https://github.com/martin-ger/esp32_nat_router).  I used file, "CH341SER.ZIP" and it worked.
+  No problems at all camera was able to connect to wifi with no problems
 
 
-## Final Report
